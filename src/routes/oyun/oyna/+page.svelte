@@ -1,13 +1,12 @@
 <script>
     import Header from '@components/header/index.svelte';
-
-    import Home from '@components/home/index.svelte';
+    import Game from '@components/game/index.svelte';
     import Footer from '@components/footer/index.svelte';
-  import HomeLayout from '@layouts/HomeLayout.svelte';
+    import PlayLayout from '@layouts/PlayLayout.svelte';
 </script>
 
-<HomeLayout>
+<PlayLayout>
     <Header slot="header"/>
-    <Home slot="home"/>
+    <Play slot="play"/>
     <Footer slot="footer"/>
-</HomeLayout>
+</PlayLayout>

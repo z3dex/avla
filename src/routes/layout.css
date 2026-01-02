@@ -19,6 +19,10 @@
     min-height: 100%;
   }
 
+  .game{
+    min-height: calc(100vh - 400px);
+  }
+
   body {
     @apply bg-primary text-slate-100;
   }

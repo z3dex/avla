@@ -4,7 +4,7 @@
 </script>
 
 <a
-  href="/oyun"
+  href="/oyun/kur"
   class="
     inline-flex items-center justify-center gap-2
     h-10 px-4 rounded-md

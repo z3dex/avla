@@ -4,7 +4,7 @@
 
 </script>
 
-<div class="relative hero-text bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950 shadow-xl shadow-black/30 min-h-[20rem] w-full rounded-2xl overflow-hidden p-5 sm:p-6 lg:p-10">
+<div class="relative hero-text bg-linear-to-br from-slate-950 via-slate-900 to-slate-950 shadow-xl shadow-black/30 min-h-80 w-full rounded-2xl overflow-hidden p-5 sm:p-6 lg:p-10">
   <div class="pointer-events-none absolute -top-24 -left-24 h-40 w-40 sm:h-56 sm:w-56 rounded-full bg-indigo-600/20 blur-3xl"></div>
   <div class="pointer-events-none absolute -bottom-24 -right-24 h-40 w-40 sm:h-56 sm:w-56 rounded-full bg-blue-500/20 blur-3xl"></div>
 
