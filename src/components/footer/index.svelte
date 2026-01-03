@@ -28,7 +28,7 @@
       </div>
     </div>
 
-    <div class="foot mt-7 border-t border-slate-400/10 pt-4 flex justify-between items-center flex-col gap-4 md:flex-row gap-2">
+    <div class="foot mt-7 border-t border-slate-400/10 pt-4 flex justify-between items-center flex-col gap-4 md:flex-row">
         <p class="text-sm text-slate-400/80 text-center">© 2024 AVLA. Tüm hakları saklıdır.</p>
         <HowPlay call="footer" />
     </div>

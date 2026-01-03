@@ -23,6 +23,10 @@
     min-height: calc(100vh - 400px);
   }
 
+  .error{
+    min-height: 100vh;
+  }
+
   body {
     @apply bg-primary text-slate-100;
   }
