@@ -208,7 +208,7 @@
 </script>
 
 <div
-  class={`bg-secondary p-4 my-10 w-120 h-200 mx-auto shadow-lg relative rounded-md flex flex-col justify-center gap-2 items-center shadow-${$game.level}-800 game`}
+  class={`bg-secondary p-4 my-10 w-full md:w-120 h-200 mx-auto shadow-lg relative rounded-md flex flex-col justify-center gap-2 items-center shadow-${$game.level}-800 game`}
 >
   {#if count > 0}
     <span
